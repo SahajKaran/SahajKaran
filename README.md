@@ -4,8 +4,8 @@
 I am an energetic and ambitious third-year undergraduate student majoring in Data Science at SFU. I am passionate about anything that has to do with the interpretation of data, be it exploratory data analysis or applying AI and ML concepts. I also love to code. I currently have a working understadning of R, C++, C, Python and 
 
 ## What's Going On
-- I'm currently looking for a CO-OP role in data analytics, andorid developer, software developer, data engineering, data science or business analytics 
-- I'm currently learning supervised and unsupervised Machine Learning models 
+- I'm currently looking for a CO-OP role in data analytics, andorid developer, software developer, data engineering, data science or business analytics.
+- I'm currently learning X86-64 Assembly language.
 - 2022 Goals: 
   - Find relevant work experience
   - Get started with machine learning projects
