@@ -1,10 +1,10 @@
 # Hi there, I'm Sahaj Karan👋
 
 ## About
-I am an energetic and ambitious third-year undergraduate student majoring in Data Science at SFU. I am passionate about anything that has to do with the interpretation of data, be it exploratory data analysis or applying AI and ML concepts. Currently, I am working on predicting house prices by combining the traditional predictor variables with the OSM (Open Street Map) data to predict house prices by amenities. Apart from that, I enjoy learning about anything and everything from technology to finance to mythology. Besides, I have interests in art, fitness, investing, and blockchain development. I plan to specialize as a data analyst or a data scientist in the finance sector, where my existing and ongoing knowledge of data and finance can make a difference. 
+I am an energetic and ambitious third-year undergraduate student majoring in Data Science at SFU. I am passionate about anything that has to do with the interpretation of data, be it exploratory data analysis or applying AI and ML concepts. I also love to code. I currently have a working understadning of R, C++, C, Python and 
 
 ## What's Going On
-- I'm currently looking for a CO-OP role in data analytics, data engineering, data science or business analytics
+- I'm currently looking for a CO-OP role in data analytics, andorid developer, software developer, data engineering, data science or business analytics 
 - I'm currently learning supervised and unsupervised Machine Learning models 
 - 2022 Goals: 
   - Find relevant work experience
