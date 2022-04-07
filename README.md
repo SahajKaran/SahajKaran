@@ -1,14 +1,13 @@
 # Hi there, I'm Sahaj Karan👋
 
 ## About
-I am an energetic and ambitious third-year undergraduate student majoring in Data Science at SFU. I am passionate about anything that has to do with the interpretation of data, be it exploratory data analysis or applying AI and ML concepts. I also love to code. I currently have a working understadning of R, C++, C, Python and 
+I am an energetic and ambitious third-year undergraduate student majoring in Data Science at SFU. I am passionate about anything that has to do with the With Andorid Development or Game Development I am also interested in the interpretation of data, be it exploratory data analysis or applying AI and ML concepts. I also just love to code. I currently have a working understadning of Java, R, C++, C, Python. I am continuting to improve as a person and a coder. Feel free to reach out anytime :).
 
 ## What's Going On
-- I'm currently looking for a CO-OP role in data analytics, andorid developer, software developer, data engineering, data science or business analytics.
 - I'm currently learning X86-64 Assembly language.
 - 2022 Goals: 
   - Find relevant work experience
-  - Get started with machine learning projects
+  - Get started with Android Development projects
   - Upload more on Linkedin and Github
 
 ## Connect with me:
