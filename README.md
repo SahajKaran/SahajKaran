@@ -4,9 +4,10 @@
 I am an energetic and ambitious third-year undergraduate student majoring in Data Science at SFU. I am passionate about anything that has to do with Andorid Development or Game Development I am also interested in the interpretation of data, be it exploratory data analysis or applying AI and ML concepts. I also just love to code. I currently have a working understadning of Java, R, C++, C, Python. I am continuting to improve as a person and a coder. Feel free to reach out anytime :).
 
 ## What's Going On
-- I'm currently learning X86-64 Assembly language.
-- 2022 Goals: 
-  - Find relevant work experience
+- I am currently working full time at 4Refuel as a Android Developer. 
+- Studying part time to complete my degree.
+- 2023 Goals: 
+  - Continue gaining knowlege through my CO-OP position at 4Refuel.
   - Get started with Android Development projects
   - Upload more on Linkedin and Github
 
