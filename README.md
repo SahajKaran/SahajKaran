@@ -12,7 +12,7 @@ I am an energetic and ambitious third-year undergraduate student majoring in Dat
   - Upload more on Linkedin and Github
 
 ## Connect with me:
-
+- 📫 reach me through **sahajkaran21@gmail.com**
 [<img align ="left" alt = "sahaj_karan" width = "32px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 
 
