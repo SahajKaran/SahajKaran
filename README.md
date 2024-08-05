@@ -1,15 +1,11 @@
 # Hi there, I'm Sahaj Karan👋
 
 ## About
-I am an energetic and ambitious third-year undergraduate student majoring in Data Science at SFU. I am passionate about anything that has to do with Andorid Development or Game Development I am also interested in the interpretation of data, be it exploratory data analysis or applying AI and ML concepts. I also just love to code. I currently have a working understadning of Java, R, C++, C, Python. I am continuting to improve as a person and a coder. Feel free to reach out anytime :).
+I graduated from Simon Fraser University (SFU) with a degree in Data Science. With over 2 years of professional experience as an Android Developer at 4Refuel, I have honed my mobile app development, data analysis, and software engineering skills. My expertise includes designing and implementing efficient, user-friendly Android applications and leveraging data to drive decision-making and optimize performance. I am passionate about using technology to solve real-world problems and am eager to bring my skills and experience to your next project.
 
 ## What's Going On
-- I am currently working full time at 4Refuel as a Android Developer. 
-- Studying part time to complete my degree.
-- 2023 Goals: 
-  - Continue gaining knowlege through my CO-OP position at 4Refuel.
-  - Get started with Android Development projects
-  - Upload more on Linkedin and Github
+- I am currently working full-time at 4Refuel as an Android Developer. 
+
 
 ## Connect with me:
 - 📫 reach me through **sahajkaran21@gmail.com**
