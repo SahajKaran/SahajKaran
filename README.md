@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Data Science graduate from Simon Fraser University (SFU) with over 2 years of professional experience as an Android Developer at 4Refuel. I specialize in mobile app development, data analysis, and software engineering, with a focus on designing and implementing efficient, user-friendly Android applications. I am passionate about leveraging data-driven insights and technology to solve real-world problems and optimize performance.
+I am a Data Science graduate from Simon Fraser University (SFU) with over 2 years of professional experience as an Android Developer at 4Refuel. I specialize in mobile app development, and software engineering, with a focus on designing and implementing efficient, user-friendly Android applications. I am passionate about leveraging data-driven insights and technology to solve real-world problems and optimize performance.
 
 ## Current Role
 
@@ -19,7 +19,7 @@ Building and maintaining mobile applications with a focus on performance, usabil
 ## Professional Experience
 
 **Android Developer | 4Refuel**  
-*2+ years*
+*3+ years*
 - Designed and implemented efficient Android applications
 - Leveraged data analysis to drive decision-making and optimize app performance
 - Collaborated with cross-functional teams to deliver high-quality mobile solutions
