@@ -1,29 +1,46 @@
-# Hi there, I'm Sahaj Karan👋
+# Sahaj Karan
 
-## About
-I graduated from Simon Fraser University (SFU) with a degree in Data Science. With over 2 years of professional experience as an Android Developer at 4Refuel, I have honed my mobile app development, data analysis, and software engineering skills. My expertise includes designing and implementing efficient, user-friendly Android applications and leveraging data to drive decision-making and optimize performance. I am passionate about using technology to solve real-world problems and am eager to bring my skills and experience to your next project.
+## About Me
 
-## What's Going On
-- I am currently working full-time at 4Refuel as an Android Developer. 
+I am a Data Science graduate from Simon Fraser University (SFU) with over 2 years of professional experience as an Android Developer at 4Refuel. I specialize in mobile app development, data analysis, and software engineering, with a focus on designing and implementing efficient, user-friendly Android applications. I am passionate about leveraging data-driven insights and technology to solve real-world problems and optimize performance.
 
+## Current Role
 
-## Connect with me:
-- 📫 reach me through **sahajkaran21@gmail.com**
-[<img align ="left" alt = "sahaj_karan" width = "32px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+**Android Developer at 4Refuel**  
+Building and maintaining mobile applications with a focus on performance, usability, and scalability.
 
+## Skills & Expertise
 
-<br />
+- **Mobile Development**: Android, Kotlin, Java
+- **Data Science**: Data Analysis, Machine Learning, Statistical Modeling
+- **Software Engineering**: Clean Architecture, MVVM, RESTful APIs
+- **Tools & Technologies**: Git, SQL, Python, Android Studio
 
+## Professional Experience
 
-[Linkedin]: https://www.linkedin.com/in/sahaj-karan-964745200/?msgControlName=reply_to_sender&msgConversationId=2-YzFlZTI5MjMtZDcwZC00NWI1LTk4NWItZWQ2YzI0ZDU5YzlhXzAxMg%3D%3D&msgOverlay=true
+**Android Developer | 4Refuel**  
+*2+ years*
+- Designed and implemented efficient Android applications
+- Leveraged data analysis to drive decision-making and optimize app performance
+- Collaborated with cross-functional teams to deliver high-quality mobile solutions
 
+## Education
 
+**Bachelor of Science in Data Science**  
+Simon Fraser University (SFU)
+
+## Get in Touch
+
+Feel free to reach out for collaboration opportunities or discussions about mobile development and data science.
+
+**Email**: sahajkaran21@gmail.com  
+**LinkedIn**: [linkedin.com/in/sahaj-karan](https://www.linkedin.com/in/sahaj-karan/)
 
 ---
 
-<img align = "left" alt="Sahaj's Github Stats" src = "https://github-readme-stats.vercel.app/api?username=sahajkaran&show_icons=true&hide_border=true" />
+<img align="left" alt="Sahaj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahajkaran&show_icons=true&hide_border=true" />
 
 <br />
 <br />
 
-<img align = "left" alt="Most Used Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sahajkaran&layout=compact&hide_border=true" />
+<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahajkaran&layout=compact&hide_border=true" />
